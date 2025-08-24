@@ -1,0 +1,27 @@
+body {
+    font-family: 'Segoe UI', Arial, Helvetica, sans-serif;
+    margin: 40px;
+    background: #fff;
+    color: #222;
+}
+
+h1 {
+    margin-bottom: 16px;
+}
+
+img {
+    display: block;
+    margin-bottom: 24px;
+}
+
+section {
+    margin-bottom: 32px;
+}
+
+h2 {
+    margin-bottom: 8px;
+}
+
+ul, p {
+    margin-bottom: 8px;
+}
